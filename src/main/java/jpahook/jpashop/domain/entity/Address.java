@@ -19,5 +19,5 @@ public class Address {
     protected Address(){
         // jpa 스팩상 만듬.
         // 상속할 일이 잘 없으므로 protected로 설정
-    }
+   }
 }
